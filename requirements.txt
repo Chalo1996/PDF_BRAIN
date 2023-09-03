@@ -1,0 +1,5 @@
+langchain[all]
+langchain[llms]
+dotenv
+streamlit
+PyPDF2
